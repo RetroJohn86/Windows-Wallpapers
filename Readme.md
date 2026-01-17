@@ -9,9 +9,9 @@ As from the January 2026, the Download Size for this Repo is : ** ? MB** ( Pleas
 
 __**Files and Folder Structure.**__
 
-All images, cursors, icons, sounds are organized based on category. e.g. .
+All images and video are organized based on category. e.g. 4K, Screen, Touch Keyboard, Wallpaper, Windows DreamScene and More.
 
-To use a themes you need to put the file and folder, in to the theme folder (C:\Windows\Web\Wallpapers) and (C:\Windows\Web) them go to your backgrounds via personalise.
+To use a themes you need to put the file and folder, in to the theme folder (C:\Windows\Web\Wallpapers) and (C:\Windows\Web) also ( C:\Users\YOUR USER\Pictures\Sample Pictures ) them go to your backgrounds via personalise.
 
 
 ## __**Disclaimer**__
