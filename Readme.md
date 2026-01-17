@@ -3,7 +3,7 @@
 
 **+** __**Repository Info**__
 
-As from the January 2026, the Download Size for this Repo is : ** ? MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
+As from the January 2026, the Download Size for this Repo is : ** 390 MB** ( Please Note The Size Can Change At Anytime Due Too Updates. )
 **This Repository is of all windows**
 
 
@@ -27,7 +27,8 @@ To use a themes you need to put the file and folder, in to the theme folder (C:\
 
 ## __**Social Media**__
 
-You Can Follow Me and Chat via these Links. [Discord](https://discord.com/invite/XWphsEk), [TwitterX](https://x.com/Retro86Official), [Facebook](https://www.facebook.com/Retro86Official), [Instagram](https://www.instagram.com/retrojohn86), [YouTube](https://www.youtube.com/channel/UCUw02MHKeo3mGfNDMvBn_eQ), [Twitch](https://www.twitch.tv/retrojohn86), [Archive](https://archive.org/details/@retro_john_86), [Reddit](https://www.reddit.com/user/RetroJohn86/) and [BLOG Site](https://retrojohn86.blogspot.com/)
+You Can Follow Me and Chat via these Links.
+[Discord](https://discord.com/invite/XWphsEk), [TwitterX](https://x.com/Retro86Official), [Bluesky](https://bsky.app/profile/retro86official.bsky.social), [Facebook](https://www.facebook.com/Retro86Official), [Instagram](https://www.instagram.com/retrojohn86), [YouTube](https://www.youtube.com/channel/UCUw02MHKeo3mGfNDMvBn_eQ), [Twitch](https://www.twitch.tv/retrojohn86), [Archive](https://archive.org/details/@retro_john_86), [Reddit](https://www.reddit.com/user/RetroJohn86/) and [BLOG Site](https://retrojohn86.blogspot.com/)
 
 
 __**Thank You and Enjoy...**__
